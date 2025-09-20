@@ -35,7 +35,7 @@ const CatalogPage = () => {
       price: 12999,
       originalPrice: 15999,
       category: 'mice',
-      image: '/img/d710e153-2eac-43c8-ac24-92aee3754e55.jpg',
+      image: 'https://cdn.poehali.dev/files/8569f277-bcfc-4c9a-8ffd-72223c611144.jpeg',
       inStock: true,
       rating: 4.8,
       reviews: 324
@@ -45,7 +45,7 @@ const CatalogPage = () => {
       name: 'Razer DeathAdder V3',
       price: 8999,
       category: 'mice',
-      image: '/img/d710e153-2eac-43c8-ac24-92aee3754e55.jpg',
+      image: 'https://cdn.poehali.dev/files/8569f277-bcfc-4c9a-8ffd-72223c611144.jpeg',
       inStock: true,
       rating: 4.6,
       reviews: 156
