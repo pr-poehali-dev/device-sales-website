@@ -10,7 +10,7 @@ const Index = () => {
       name: 'Мышки',
       icon: 'Mouse',
       description: 'Игровые и офисные мышки',
-      image: 'https://cdn.poehali.dev/files/8569f277-bcfc-4c9a-8ffd-72223c611144.jpeg'
+      image: '/img/d710e153-2eac-43c8-ac24-92aee3754e55.jpg'
     },
     {
       id: 'keyboards',

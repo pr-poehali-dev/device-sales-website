@@ -16,9 +16,9 @@ const ProductPage = () => {
     originalPrice: 15999,
     category: 'mice',
     images: [
-      'https://cdn.poehali.dev/files/8569f277-bcfc-4c9a-8ffd-72223c611144.jpeg',
-      'https://cdn.poehali.dev/files/8569f277-bcfc-4c9a-8ffd-72223c611144.jpeg',
-      'https://cdn.poehali.dev/files/8569f277-bcfc-4c9a-8ffd-72223c611144.jpeg'
+      '/img/d710e153-2eac-43c8-ac24-92aee3754e55.jpg',
+      '/img/d710e153-2eac-43c8-ac24-92aee3754e55.jpg',
+      '/img/d710e153-2eac-43c8-ac24-92aee3754e55.jpg'
     ],
     inStock: true,
     rating: 4.8,
